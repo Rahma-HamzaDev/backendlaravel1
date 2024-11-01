@@ -13,8 +13,8 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://your.url.from.vercel.app",
-        "APP_KEY": "add API key here from your .env file",
+        "APP_URL": "https://vercel.com/rahma-hamzas-projects",
+        "APP_KEY": "base64:fqqAcLzjVJpnF4LG6S41JP0w1AX7RADg5KY0jVPe2Vw",
 
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
